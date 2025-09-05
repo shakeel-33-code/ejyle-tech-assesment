@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn
+transformers
+torch
+pypdf
+python-docx
